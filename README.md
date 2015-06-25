@@ -1,2 +1,3 @@
 # Minesweeper
-Minesweeper game class. 
+
+Class written in Python for Minesweeper game.
